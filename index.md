@@ -1,6 +1,6 @@
 Gavel Privacy Policy
 
-Effective date: [DATE PAGE GOES LIVE]
+Effective date: July 21, 2026
 
 Gavel is a bedtime alarm app made by an independent developer. This policy describes what data the app handles. The short version: there are no accounts, your personal data stays on your phone, and we collect only anonymous usage analytics.
 
@@ -24,4 +24,4 @@ You can stop all data collection by deleting the app. Subscription management an
 
 Contact
 
-Questions: sknath373@gmail.com
+Questions: appgavel9@gmail.com
